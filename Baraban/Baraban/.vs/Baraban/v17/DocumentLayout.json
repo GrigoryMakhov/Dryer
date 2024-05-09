@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509204238_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Baraban\\Migrations\\20240509204238_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|c:\\users\\grisha\\desktop\\baraban\\baraban\\baraban\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|solutionrelative:baraban\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|c:\\users\\grisha\\desktop\\baraban\\baraban\\baraban\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|solutionrelative:baraban\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|c:\\users\\grisha\\desktop\\baraban\\baraban\\baraban\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|solutionrelative:baraban\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|c:\\users\\grisha\\desktop\\baraban\\baraban\\baraban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|solutionrelative:baraban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|c:\\users\\grisha\\desktop\\baraban\\baraban\\baraban\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|solutionrelative:baraban\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|c:\\users\\grisha\\desktop\\baraban\\baraban\\baraban\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|solutionrelative:baraban\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|c:\\users\\grisha\\desktop\\baraban\\baraban\\baraban\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F839DC1F-3A81-40F3-9A69-55E7586893BC}|Baraban\\Baraban.csproj|solutionrelative:baraban\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509202347_123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Baraban\\Migrations\\20240509202347_123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509201948_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Baraban\\Migrations\\20240509201948_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240509204238_create.cs",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509204238_create.cs",
+              "RelativeDocumentMoniker": "Baraban\\Migrations\\20240509204238_create.cs",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509204238_create.cs",
+              "RelativeToolTip": "Baraban\\Migrations\\20240509204238_create.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:42:38.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\appsettings.json",
+              "RelativeDocumentMoniker": "Baraban\\appsettings.json",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\appsettings.json",
+              "RelativeToolTip": "Baraban\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T20:41:58.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Baraban\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\appsettings.Development.json",
+              "RelativeToolTip": "Baraban\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T20:41:54.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Startup.cs",
+              "RelativeDocumentMoniker": "Baraban\\Startup.cs",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Startup.cs",
+              "RelativeToolTip": "Baraban\\Startup.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:32:26.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Program.cs",
+              "RelativeDocumentMoniker": "Baraban\\Program.cs",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Program.cs",
+              "RelativeToolTip": "Baraban\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:38:55.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Baraban\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Baraban\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:34:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Baraban\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Baraban\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:34:30.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Baraban\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\ApplicationContext.cs",
+              "RelativeToolTip": "Baraban\\ApplicationContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:24:47.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240509202347_123.cs",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509202347_123.cs",
+              "RelativeDocumentMoniker": "Baraban\\Migrations\\20240509202347_123.cs",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509202347_123.cs",
+              "RelativeToolTip": "Baraban\\Migrations\\20240509202347_123.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:23:47.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240509201948_createdb.cs",
+              "DocumentMoniker": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509201948_createdb.cs",
+              "RelativeDocumentMoniker": "Baraban\\Migrations\\20240509201948_createdb.cs",
+              "ToolTip": "C:\\Users\\Grisha\\Desktop\\Baraban\\Baraban\\Baraban\\Migrations\\20240509201948_createdb.cs",
+              "RelativeToolTip": "Baraban\\Migrations\\20240509201948_createdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:19:49.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

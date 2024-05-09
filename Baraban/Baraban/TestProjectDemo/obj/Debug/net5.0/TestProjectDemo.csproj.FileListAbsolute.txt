@@ -1,0 +1,856 @@
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\testhost.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\testhost.exe
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\nunit.engine.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\nunit.engine.api.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\nunit.engine.core.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ForTest.xlsx
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.deps.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.dev.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ref\TestProjectDemo.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\nunit.framework.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\NumberSumMathLib.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\NumberSumMathLib.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.AssemblyReference.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.ResolveComReference.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfoInputs.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfo.cs
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CopyComplete
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\ref\TestProjectDemo.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\Примеры проектов\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.genruntimeconfig.cache
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.ResolveComReference.cache
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfo.cs
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\ref\TestProjectDemo.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.pdb
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\testhost.exe
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\testhost.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\nunit.engine.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.deps.json
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.json
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.dev.json
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ref\TestProjectDemo.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.pdb
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\nunit.framework.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CopyComplete
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.genruntimeconfig.cache
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\MathLib.dll
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\MathLib.pdb
+D:\Учеба\магистратура\РПО\NumberSumCore\TestProjectDemo\bin\Debug\net5.0\3 Сушильный барабан.xlsm
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.exe
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\3 Сушильный барабан.xlsm
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.deps.json
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.json
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.dev.json
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.pdb
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.framework.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.pdb
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.ResolveComReference.cache
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfo.cs
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CopyComplete
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\ref\TestProjectDemo.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.pdb
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.genruntimeconfig.cache
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.exe
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\3 Сушильный барабан.xlsm
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.deps.json
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.json
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.dev.json
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ref\TestProjectDemo.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.pdb
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.framework.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.pdb
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csprojAssemblyReference.cache
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.ResolveComReference.cache
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfoInputs.cache
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfo.cs
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CopyComplete
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\ref\TestProjectDemo.dll
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.pdb
+D:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.genruntimeconfig.cache
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\CoverletSourceRootsMapping
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.exe
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.api.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.core.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\3 Сушильный барабан.xlsm
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.deps.json
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.json
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.dev.json
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ref\TestProjectDemo.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.pdb
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.framework.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.dll
+E:\C#Projects\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.pdb
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csprojAssemblyReference.cache
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.ResolveComReference.cache
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfoInputs.cache
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfo.cs
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CopyComplete
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.dll
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\ref\TestProjectDemo.dll
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.pdb
+E:\C#Projects\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.genruntimeconfig.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.exe
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.api.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.core.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\3 Сушильный барабан.xlsm
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.deps.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.dev.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.framework.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.AssemblyReference.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.ResolveComReference.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfoInputs.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfo.cs
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CopyComplete
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\refint\TestProjectDemo.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.genruntimeconfig.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2022\Готово\Махов Григорий\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\ref\TestProjectDemo.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\CoverletSourceRootsMapping
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.exe
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.api.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.core.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\3 Сушильный барабан.xlsm
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.deps.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.dev.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.pdb
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.framework.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.pdb
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.AssemblyReference.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.ResolveComReference.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfoInputs.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfo.cs
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CopyComplete
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\refint\TestProjectDemo.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.pdb
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.genruntimeconfig.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\ref\TestProjectDemo.dll
+D:\Учеба\магистратура\РПО\123901_MakhovGrigory\App\Baraban\TestProjectDemo\obj\Debug\net5.0\refint\TestProjectDemo.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\testhost.exe
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\3 Сушильный барабан.xlsm
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.deps.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.runtimeconfig.dev.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\TestProjectDemo.pdb
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\bin\Debug\net5.0\MathLib.pdb
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.AssemblyReference.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.ResolveComReference.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfoInputs.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.AssemblyInfo.cs
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProj.9FEEA637.Up2Date
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\refint\TestProjectDemo.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.pdb
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\TestProjectDemo.genruntimeconfig.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\TestProjectDemo\obj\Debug\net5.0\ref\TestProjectDemo.dll

@@ -1,0 +1,149 @@
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\appsettings.Development.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\appsettings.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Baraban.staticwebassets.runtime.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Baraban.exe
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Baraban.deps.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Baraban.runtimeconfig.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Baraban.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Baraban.pdb
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Humanizer.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\MathLib.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\MathLib.pdb
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.csproj.AssemblyReference.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.GeneratedMSBuildEditorConfig.editorconfig
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.AssemblyInfoInputs.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.AssemblyInfo.cs
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.csproj.CoreCompileInputs.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.MvcApplicationPartsAssemblyInfo.cs
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.MvcApplicationPartsAssemblyInfo.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.RazorAssemblyInfo.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.RazorAssemblyInfo.cs
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\staticwebassets.build.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\staticwebassets.development.json
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\scopedcss\bundle\Baraban.styles.css
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.csproj.CopyComplete
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\refint\Baraban.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.pdb
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\Baraban.genruntimeconfig.cache
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\obj\Debug\net6.0\ref\Baraban.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Махов Г.Н\РПО\123901_MakhovGrigory\App\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\appsettings.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Baraban.staticwebassets.runtime.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Baraban.exe
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Baraban.deps.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Baraban.runtimeconfig.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Baraban.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Baraban.pdb
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\MathLib.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.csproj.AssemblyReference.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.AssemblyInfoInputs.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.AssemblyInfo.cs
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.RazorAssemblyInfo.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.RazorAssemblyInfo.cs
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\staticwebassets\msbuild.Baraban.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\staticwebassets\msbuild.build.Baraban.props
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Baraban.props
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Baraban.props
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\scopedcss\bundle\Baraban.styles.css
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.csproj.Up2Date
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\refint\Baraban.dll
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.pdb
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\Baraban.genruntimeconfig.cache
+C:\Users\Grisha\Desktop\Baraban\Baraban\Baraban\obj\Debug\net6.0\ref\Baraban.dll

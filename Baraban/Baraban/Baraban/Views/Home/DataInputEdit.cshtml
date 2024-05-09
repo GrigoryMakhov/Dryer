@@ -1,0 +1,168 @@
+﻿@model Baraban.Models.DataInputModel
+<!DOCTYPE html>
+<html>
+<head>
+@*    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>*@
+</head>
+<body>
+    @using (Html.BeginForm("DataInputEdit", "Home", FormMethod.Post))
+    {
+       
+        <div class="container">
+            <h2>Исходные данные</h2>
+            <div class="table-responsive">
+                <div>
+                    <table>
+                        <tr>
+                            <td valign="top" width="210">
+                                @Html.TextBox("Name", (string)(Model.Name), htmlAttributes: new { type = "text", style = " width:200px; ", placeholder = "Введите название"})
+                            </td>
+                            <td>
+                                @Html.TextArea("Description", (string)(Model.Description), 5, 1, htmlAttributes: new { type = "text", style = " width:200px; height:30px", placeholder = "Введите описание"})
+                            </td>
+                        </tr>
+                    </table>
+                    <h10>* Чтобы создать копию варианта, измените название</h10>
+                </div>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Начальная влажность материала, %</td>
+                            <td>@Html.TextBox("Wstart", (double)(Model.Wstart), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Конечная влажность материала, %</td>
+                            <td>@Html.TextBox("Wend", (double)(Model.Wend), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание углерода в топливе, %</td>
+                            <td>@Html.TextBox("percentCp", (double)(Model.percentCp), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание водорода в топливе, %</td>
+                            <td>@Html.TextBox("percentHp", (double)(Model.percentHp), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание серы в топливе, %</td>
+                            <td>@Html.TextBox("percentSp", (double)(Model.percentSp), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание кислорода в топливе, %</td>
+                            <td>@Html.TextBox("percentOp", (double)(Model.percentOp), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание азота в топливе, %</td>
+                            <td>@Html.TextBox("percentNp", (double)(Model.percentNp), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание золы в топливе, %</td>
+                            <td>@Html.TextBox("percentAp", (double)(Model.percentAp), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание влаги в топливе, %</td>
+                            <td>@Html.TextBox("percentWp", (double)(Model.percentWp), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Максимальная температура газов, °C</td>
+                            <td>@Html.TextBox("t1", (double)(Model.t1), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Минимальная температура газов, °C</td>
+                            <td>@Html.TextBox("t2", (double)(Model.t2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Коэффициент расхода воздуха</td>
+                            <td>@Html.TextBox("alpha", (double)(Model.alpha), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Коэффициент сохранения тепла</td>
+                            <td>@Html.TextBox("eta", (double)(Model.eta), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура воздуха, °C</td>
+                            <td>@Html.TextBox("tair", (double)(Model.tair), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура газов, °C</td>
+                            <td>@Html.TextBox("tgase", (double)(Model.tgase), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Средняя по массе начальная температура материала, °C</td>
+                            <td>@Html.TextBox("tm1", (double)(Model.tm1), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Требуемая производительность, кг/ч</td>
+                            <td>@Html.TextBox("Gt", (double)(Model.Gt), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Процент химического недожога, %</td>
+                            <td>@Html.TextBox("Him", (double)(Model.Him), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Объемное отношение кислорода к азоту в воздухе</td>
+                            <td>@Html.TextBox("k", (double)(Model.k), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Удельная теплоемкость газов, кДж/(кг*К)</td>
+                            <td>@Html.TextBox("Cgase", (double)(Model.Cgase), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Удельная теплоемкость сухого материала, кДж/(кг*К)</td>
+                            <td>@Html.TextBox("Cmaterial", (double)(Model.Cmaterial), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Удельная теплоемкость влаги, кДж/(кг*К)C</td>
+                            <td>@Html.TextBox("Cwet", (double)(Model.Cwet), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Энтальпия водяного пара при 100 градусах цельсия, кДж/кг</td>
+                            <td>@Html.TextBox("enthalpy100", (double)(Model.enthalpy100), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Диаметр барабана, м</td>
+                            <td>@Html.TextBox("D", (double)(Model.D), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Длина барабана, м</td>
+                            <td>@Html.TextBox("L", (double)(Model.L), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p>
+        </p>
+        <div class="form-group" style="margin-left: auto; margin-top: 15px">
+            <button type="submit" style="font-size: 15px" class="btn btn-primary" asp-route-UserId="@Model.UserId">Подтвердить</button>
+        </div>
+
+    }
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+</body>
+</html>
+
+<script>
+    $(document).ready(function () {
+
+        const a = (e) => {
+            var charCode = (e.which) ? e.which : event.keyCode
+
+            if (String.fromCharCode(charCode).match(/[^0-9\,]/g))
+
+                return false;
+        }
+        $('input:not([name = "Name"])').keypress(a);
+
+    });
+</script>

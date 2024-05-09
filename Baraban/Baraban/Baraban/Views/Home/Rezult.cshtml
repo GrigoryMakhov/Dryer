@@ -1,0 +1,304 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+@*    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>*@
+</head>
+<body>
+
+    <div class="container">
+
+        <a asp-action="Report" asp-controller="Home" asp-route-id="@ViewBag.inputId">Сформировать отчет</a>
+
+        <h2>Итоговые расчетные показатели</h2>
+
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Наименование показателя, ед. изм.</th>
+                        <th>Величина</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Расход теплоты на прогревание просушиваемых материалов и испарение влаги, кВт</td>
+                        <td>@Math.Round(ViewBag.Q1, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>Потери теплоты вследствие теплопроводности стенок рабочего пространства, кВт</td>
+                        <td>@Math.Round(ViewBag.Q5t, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>Расход мазута, кг/ч</td>
+                        <td>@Math.Round(ViewBag.B, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>Тепловая мощность печи, кВт</td>
+                        <td>@Math.Round(ViewBag.Qh, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>Расход теплоты на 1 кг испаренной влаги, кДж/кг</td>
+                        <td>@Math.Round(ViewBag.qevapor, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>Потери теплоты с отходящими газами, кВт</td>
+                        <td>@Math.Round(ViewBag.Q2, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>Потери теплоты с химическим недожогом, кВт</td>
+                        <td>@Math.Round(ViewBag.Q3, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>Потери теплоты топкой, кВт</td>
+                        <td>@Math.Round(ViewBag.Q5top, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>Коэффициент полезного действия печи, %</td>
+                        <td>@Math.Round(ViewBag.percentQ1, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>%Q2, %</td>
+                        <td>@Math.Round(ViewBag.percentQ2, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>%Q3, %</td>
+                        <td>@Math.Round(ViewBag.percentQ3, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>%Q5топ, %</td>
+                        <td>@Math.Round(ViewBag.percentQ5top, 3)</td>
+                    </tr>
+                    <tr>
+                        <td>%Q5т, %</td>
+                        <td>@Math.Round(ViewBag.percentQ5t, 3)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <button class="btn btn-primary" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';">Промежуточные показатели</button>
+        <div class="spoiler">
+            <h2>Промежуточные расчетные показатели</h2>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Удельная теплоемкость воздуха, кДж/(кг*К)</td>
+                            <td>@Math.Round(ViewBag.Cair, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Начальная энтальпия воды, кДж/кг</td>
+                            <td>@Math.Round(ViewBag.enthalpyWater, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Удельная теплоемкость пара, кДж/кг</td>
+                            <td>@Math.Round(ViewBag.Csteam, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Выход CO2 в продуктах горения, м3/кг</td>
+                            <td>@Math.Round(ViewBag.exitCO2, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Выход SO2 в продуктах горения, м3/кг</td>
+                            <td>@Math.Round(ViewBag.exitSO2, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Выход H2O в продуктах горения, м3/кг</td>
+                            <td>@Math.Round(ViewBag.exitH2O, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Расход кислорода на горение, м3/кг</td>
+                            <td>@Math.Round(ViewBag.consumptionO2, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Выход N2 в продуктах горения, м3/кг</td>
+                            <td>@Math.Round(ViewBag.exitN2, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Действительный выход N2 в продуктах горения, м3/кг</td>
+                            <td>@Math.Round(ViewBag.realexitN2, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Избыточный объем кислорода, м3/кг</td>
+                            <td>@Math.Round(ViewBag.overageO2, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Теоретический расход воздуха, м3/кг</td>
+                            <td>@Math.Round(ViewBag.theoryСonsAir, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Действительный расход сухого воздуха, м3/кг</td>
+                            <td>@Math.Round(ViewBag.realConsDryAir, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Выход продуктов горения, м3/кг</td>
+                            <td>@Math.Round(ViewBag.exitCombusProd, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Теплота сгорания мазута, кДж/кг</td>
+                            <td>@Math.Round(ViewBag.Qfuel, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание воздуха в продуктах сгорания, %</td>
+                            <td>@Math.Round(ViewBag.percentAir, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Балансовая энтальпия продуктов горения, кДж/м3</td>
+                            <td>@Math.Round(ViewBag.balanceEntCombusProd, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Балансовая температура продуктов горения, °C</td>
+                            <td>@Math.Round(ViewBag.balanceTempCombusProd, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Энтальпия факела, кДж/м3</td>
+                            <td>@Math.Round(ViewBag.enthalpyTorch, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Энтальпия воздуха, кДж/м3</td>
+                            <td>@Math.Round(ViewBag.enthalpyAir, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Энтальпия продуктов сгорания, кДж/м3</td>
+                            <td>@Math.Round(ViewBag.enthalpyCombusProd, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Энтальпия дымовых газов, кДж/м3</td>
+                            <td>@Math.Round(ViewBag.enthalpyFlueGases, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Количество воздуха, м3/м3</td>
+                            <td>@Math.Round(ViewBag.airAmount, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Энтальпия воздуха при t2 и VL = 100%, кДж/м3</td>
+                            <td>@Math.Round(ViewBag.enthalpyAir100, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Средняя по массе температура материала в конце сушки, °C</td>
+                            <td>@Math.Round(ViewBag.middleTempEnd, 3)</td>
+                        <tr>
+                            <td>Температура стенки в начале барабана, °C</td>
+                            <td>@Math.Round(ViewBag.startTempWall, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Температура стенки в конце барабана, °C</td>
+                            <td>@Math.Round(ViewBag.endTempWall, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Средняя температура металлической стенки барабана, °C</td>
+                            <td>@Math.Round(ViewBag.middleTempWall, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Коэффициент теплоотдачи от поверхности стенки к окрущающей среде, Вт/(м2*К)</td>
+                            <td>@Math.Round(ViewBag.alphaHeatTrans, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Влажность в % от неизменяющейся сухой массы материала в начале сушки, %</td>
+                            <td>@Math.Round(ViewBag.startMaterialWet, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Влажность в % от неизменяющейся сухой массы материала в конце сушки, %</td>
+                            <td>@Math.Round(ViewBag.endMaterialWet, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Производительность по испарённой влаге, кг/ч</td>
+                            <td>@Math.Round(ViewBag.WetEfficiency, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Q2*B, кВт*кг/ч</td>
+                            <td>@Math.Round(ViewBag.Q2B, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Q3*B, кВт*кг/ч</td>
+                            <td>@Math.Round(ViewBag.Q3B, 3)</td>
+                        </tr>
+                        <tr>
+                            <td>Q5топ*B, кВт*кг/ч</td>
+                            <td>@Math.Round(ViewBag.Q5tpoB, 3)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <br />
+    <br />
+    <h1 class="text-center">Тепловой баланс</h1>
+    <canvas id="myChart1" style="width: 100%; height: 400px;"></canvas>
+    <br />
+    <br />
+
+
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+    <p></p>
+</body>
+</html>
+<script src="~/js/Chart.js"></script>
+<script>
+
+</script>
+<script>
+    var graphDataNames = ['Q1', 'Q2', 'Q3', 'Q5t', 'Q5Ttop'];
+    var graphDataSums = @Html.Raw(ViewBag.lists);
+var ctx = document.getElementById('myChart1').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'pie',
+    data: {
+        labels: graphDataNames,
+        datasets: [{
+            label: 'Тепловой баланс',
+            lineTension: 0,
+            data: graphDataSums,
+            backgroundColor: [
+                'red',
+                'green',
+                'yellow',
+                'blue',
+                'purple'
+            ],
+            borderColor: [
+                'red',
+                'green',
+                'yellow',
+                'blue',
+                'purple'
+            ],
+            borderWidth: 1,
+        }]
+    },
+    options: {
+        
+        legend: {
+            labels: {
+                fontColor: 'black',
+                fontSize: 14
+            }
+        }
+    }
+});
+</script>
+
+<style type="text/css">
+    .spoiler {
+        overflow: hidden;
+    }
+
+    .btn-primary[value="Show"] + .spoiler > div {
+        margin-top: -200%;
+    }
+
+    .btn-primary[value="Hide"] + .spoiler {
+        padding: 20px;
+    }
+</style>
