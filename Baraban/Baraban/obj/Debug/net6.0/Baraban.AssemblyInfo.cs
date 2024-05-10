@@ -11,12 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TestProjectDemo")]
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Baraban-C0666AE7-2A8B-4B11-B94C-F432955E7AFE")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Baraban")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2faee0102439db15027e14e8393eb6ff1020fc36")]
-[assembly: System.Reflection.AssemblyProductAttribute("TestProjectDemo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TestProjectDemo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Baraban")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Baraban")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
